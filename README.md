@@ -3,3 +3,5 @@ This project is a basic web application that predicts the likelihood of various 
 
 
 Live demo link:- https://multiple-disease-prediction-system-dn4gjhurnmjda2oech2wuo.streamlit.app/
+
+6 148 72 35 0 33.6 0.627 50 1
